@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fastmsc"
+  site-url: "https://bdsaglam.github.io/fastmsc"
+  description: "Utilities for thesis"
+  repo-branch: master
+  repo-url: "https://github.com/bdsaglam/fastmsc"
