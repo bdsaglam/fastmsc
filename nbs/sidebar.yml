@@ -3,9 +3,33 @@ website:
     contents:
       - index.ipynb
       - 01_utils.ipynb
-      - section: Recipes
+      - section: ml
         contents:
-          - recipes/truba.ipynb
-      - section: Tutorials
+          - ml/ml.evaluation.ipynb
+          - ml/ml.loss.ipynb
+          - ml/ml.vision.ipynb
+      - section: notes
         contents:
-          - tutorials/tutorial.ipynb
+          - notes/craft.aws.lambda.ipynb
+          - notes/craft.colab.ipynb
+          - notes/craft.conda.ipynb
+          - notes/craft.docker.ipynb
+          - notes/craft.fastai.ipynb
+          - notes/craft.git.ipynb
+          - notes/craft.java.ipynb
+          - notes/craft.jupyter.ipynb
+          - notes/craft.kaggle.ipynb
+          - notes/craft.kubernetes.ipynb
+          - notes/craft.latex.ipynb
+          - notes/craft.mac.ipynb
+          - notes/craft.miscellaneous.ipynb
+          - notes/craft.python.ipynb
+          - notes/craft.shell.ipynb
+          - notes/craft.ssh.ipynb
+          - notes/craft.terminal.ipynb
+          - notes/craft.tmux.ipynb
+          - notes/craft.torch.ipynb
+          - notes/craft.truba.ipynb
+          - notes/craft.typescript.ipynb
+          - notes/craft.vim.ipynb
+          - notes/craft.vscode.ipynb
