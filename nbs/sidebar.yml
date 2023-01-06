@@ -33,3 +33,4 @@ website:
           - notes/craft.typescript.ipynb
           - notes/craft.vim.ipynb
           - notes/craft.vscode.ipynb
+          - notes/craft.wandb.ipynb
