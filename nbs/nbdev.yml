@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "fastmsc"
-  site-url: "https://bdsaglam.github.io/fastmsc"
+  title: "bellek"
+  site-url: "https://bdsaglam.github.io/bellek"
   description: "Utilities for thesis"
   repo-branch: master
-  repo-url: "https://github.com/bdsaglam/fastmsc"
+  repo-url: "https://github.com/bdsaglam/bellek"
