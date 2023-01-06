@@ -1,13 +1,13 @@
 # Android
 
 ## Uninstall APK
-adb shell pm uninstall  com.mediate.supersense
+adb shell pm uninstall  com.your.package
 
 ## Clear all
-adb shell pm clear com.mediate.supersense
+adb shell pm clear com.your.package
 
 ## Revoke a permission
-adb shell pm revoke com.mediate.supersense android.permission.RECORD_AUDIO
+adb shell pm revoke com.your.package android.permission.RECORD_AUDIO
 
 ## Reset all permission
 adb shell pm reset-permissions 
