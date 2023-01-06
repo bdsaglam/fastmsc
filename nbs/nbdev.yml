@@ -4,6 +4,6 @@ project:
 website:
   title: "bellek"
   site-url: "https://bdsaglam.github.io/bellek"
-  description: "Utilities for thesis"
+  description: "My digital memory"
   repo-branch: master
   repo-url: "https://github.com/bdsaglam/bellek"
