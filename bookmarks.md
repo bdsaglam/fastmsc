@@ -1,5 +1,12 @@
 # Engineering log
 
+## 2023-01-09
+Multiple SSH keys
+https://gist.github.com/jexchan/2351996
+
+Using ssh config file
+https://linuxize.com/post/using-the-ssh-config-file/
+
 ## 2023-01-02
 F1 Score
 https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f
